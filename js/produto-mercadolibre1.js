@@ -1,6 +1,6 @@
 // FORÇA TODOS OS BOTÕES DE COMPRA PARA O CHECKOUT CORRETO
 (function() {
-    const CHECKOUT_URL = 'https://checkout.casaboreal.site/checkout?product=f4b7ea3f-c100-11f0-a710-46da4690ad53';
+    const CHECKOUT_URL = 'https://pagamento.appagil.shop/checkout?product=7375230b-c35e-11f0-94c2-46da4690ad53';
     
     // Intercepta TODOS os formulários de compra
     document.addEventListener('submit', function(e) {
@@ -834,6 +834,7 @@ window.addEventListener('load', function () {
       }, 40000); // 40 segundos
     }
   });
+
   
 
 // Função para abrir o modal de imagem
